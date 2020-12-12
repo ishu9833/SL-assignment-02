@@ -1,0 +1,3 @@
+After you open a pull request in a repository, 
+collaborators or team members can comment on the comparison of files between the two specified branches,
+ or leave general comments on the project as a whole.
