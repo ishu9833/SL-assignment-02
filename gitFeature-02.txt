@@ -1,0 +1,5 @@
+2nd feature is You can make collaboration in any big project for you company.
+
+Think about it Your company get a big project which will turn your promotion properly.
+Now this project need a team for solve and design the project but you can't work in single computer right?
+you need several  computer . then Your written code needs share each other . then you get help by github.
